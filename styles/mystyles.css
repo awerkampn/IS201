@@ -1,0 +1,23 @@
+p {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
+    color: aliceblue;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+.italic{
+    font-style: italic;
+}
+
+.normals{
+    font-style: normal;
+}
+
+.normalw{
+    font-weight: normal;
+}
